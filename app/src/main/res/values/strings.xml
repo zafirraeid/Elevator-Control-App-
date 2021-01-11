@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="happy_birthday">Happy Birthday</string>
+    <string name="elevator_ui">Elevator UI</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="button">Button</string>
+    <string name="_8">8</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_9">9</string>
+    <string name="_10">10</string>
+    <string name="_11">11</string>
+    <string name="_12">12</string>
+    <string name="scan_now">Scan Now</string>
+    <string name="hint">hint</string>
+    <string name="enter_the_number_of_values_you_would_like">Enter the number of values you would like</string>
+    <string name="create">Create</string>
+    <string name="scan">Scan</string>
+    <string name="welcome_to_my_app_designed_to_battle_the_threats_of_covid_19">Welcome to my App designed to battle the threats of Covid-19!</string>
+    <string name="todo">TODO</string>
+    <string name="input_number_of_buttons">Input number of buttons</string>
+    <string name="generate">Generate</string>
+    <string name="going_to_floor_1">Going to Floor 1</string>
+    <string name="_16">16</string>
+    <string name="_17">17</string>
+    <string name="b1">B1</string>
+    <string name="b2">B2</string>
+    <string name="_25">25</string>
+    <string name="_24">24</string>
+    <string name="_22">22</string>
+    <string name="_23">23</string>
+    <string name="_21">21</string>
+    <string name="_20">20</string>
+    <string name="_18">18</string>
+    <string name="_19">19</string>
+    <string name="_15">15</string>
+    <string name="_14">14</string>
+    <string name="_13">13</string>
+
+
+</resources>
